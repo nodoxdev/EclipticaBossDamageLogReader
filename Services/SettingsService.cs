@@ -11,7 +11,7 @@ namespace BossDamageLogger.Services
         public SettingsService()
         {
             string localAppData = Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData);
-            string folder = Path.Combine(localAppData, "BossDamageLogger");
+            string folder = Path.Combine(localAppData, "EVRCBossLogReader");
             Directory.CreateDirectory(folder);
             _settingsFilePath = Path.Combine(folder, "settings.json");
         }
