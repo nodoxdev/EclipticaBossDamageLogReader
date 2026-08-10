@@ -1,0 +1,37 @@
+2026.08.07 21:08:27 Debug      -  Retiring Enemy POOL ID19
+2026.08.07 21:08:27 Debug      -  Local controller dead, switching off.
+2026.08.07 21:08:28 Debug      -  Local controller dead, switching off.
+2026.08.07 21:08:28 Debug      -  Local controller dead, switching off.
+2026.08.07 21:08:29 Debug      -  Local controller dead, switching off.
+2026.08.07 21:08:30 Debug      -  Local controller dead, switching off.
+2026.08.07 21:08:31 Debug      -  Local controller dead, switching off.
+2026.08.07 21:08:32 Debug      -  Local controller dead, switching off.
+2026.08.07 21:08:33 Debug      -  Local controller dead, switching off.
+2026.08.07 21:08:33 Debug      -  Retiring Enemy POOL ID0
+2026.08.07 21:08:33 Debug      -  Boss JimBringerPhase3 dead, personal damage dealt: 
+2026.08.07 21:08:33 Debug      -  STRIKE DMG: 12818
+2026.08.07 21:08:33 Debug      -  NON-STRIKE DMG: 7146
+2026.08.07 21:09:01 Debug      -  Boss JimBringerPhase3 dead, personal damage dealt: 
+2026.08.07 21:09:01 Debug      -  STRIKE DMG: 12818
+2026.08.07 21:09:01 Debug      -  NON-STRIKE DMG: 7146
+2026.08.07 21:20:10 Debug      -  Boss SomeOtherBoss dead, personal damage dealt: 
+2026.08.07 21:20:10 Debug      -  STRIKE DMG: 0
+2026.08.07 21:20:10 Debug      -  NON-STRIKE DMG: 500
+2026.08.09 14:46:12 Debug   -  ECLIPTICA - now fighting boss: MelonPhase2(Clone) on phase: 0.5351061
+2026.08.09 14:46:12 Debug   -  ECLIPTICA - now fighting boss: MelonPhase2(Clone) on phase: 0.5351061
+2026.08.09 14:48:32 Debug      -  Boss MelonPhase2 dead, personal damage dealt: 
+2026.08.09 14:48:32 Debug      -  STRIKE DMG: 24000
+2026.08.09 14:48:32 Debug      -  NON-STRIKE DMG: 6000
+2026.08.09 14:53:52 Debug      -  ECLIPTICA - now fighting boss: Despair(Clone) on phase: 0.6334146
+2026.08.09 14:58:52 Debug      -  Boss Despair dead, personal damage dealt: 
+2026.08.09 14:58:52 Debug      -  STRIKE DMG: 30000
+2026.08.09 14:58:52 Debug      -  NON-STRIKE DMG: 5000
+2026.08.09 16:26:00 Debug   -  ECLIPTICA - now fighting boss: JimBringerPhase3(Clone) on phase: 1.0
+2026.08.09 16:28:10 Debug      -  Initializing Enemy POOL ID0 as ENEMY ID 86
+2026.08.09 16:28:15 Debug      -  Dealing 21 NON-STRIKE damage
+2026.08.09 16:28:15 Debug      -  Dealing 19 STRIKE damage
+2026.08.09 16:28:15 Debug      -  Dealing 53 STRIKE damage
+2026.08.09 16:28:20 Debug      -  Retiring Enemy POOL ID0
+2026.08.09 16:29:00 Debug      -  Boss JimBringerPhase3 dead, personal damage dealt: 
+2026.08.09 16:29:00 Debug      -  STRIKE DMG: 12818
+2026.08.09 16:29:00 Debug      -  NON-STRIKE DMG: 7146

@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+    <AssemblyName>EVRCBossLogReader</AssemblyName>
+    <Version>0.51</Version>
+    <RootNamespace>EVRCBossLogReader</RootNamespace>
+    <ApplicationIcon>IconMadeByAFriend.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="IconMadeByAFriend.ico" />
+  </ItemGroup>
+
+</Project>
